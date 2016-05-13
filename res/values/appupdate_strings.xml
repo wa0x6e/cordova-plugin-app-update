@@ -6,7 +6,7 @@
     <string name="update_update_btn">Update</string>
     <string name="updating">Updating</string>
     <string name="update_cancel">Cancel</string>
-    <string name="update_bg">Update in background</string>
+    <string name="update_bg"></string>
 
     <string name="update_error_title">Error</string>
     <string name="update_error_message">An error occured while fetching the update. Try again later</string>
